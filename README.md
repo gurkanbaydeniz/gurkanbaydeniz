@@ -23,7 +23,7 @@
 | Proje | Ne işe yarar | Teknoloji |
 |---|---|---|
 | [🤔 **Kararsızım**](https://github.com/gurkanbaydeniz/kararsizim) | Sosyal anket platformu — kararsız kaldığında sor, misafirler bile oy verebilir. [**Canlı demo →**](https://kararsizim-flame.vercel.app) | Django · Supabase · Vercel |
-| [⏱️ **Mikro Mola**](https://github.com/gurkanbaydeniz/mikro-mola) | Masa başı çalışanlar için mola & su takip uygulaması | FastAPI · Vanilla JS |
+| [☕ **StokTakip**](https://github.com/gurkanbaydeniz/stoktakip) | Küçük işletmeler için stok, SKT ve irsaliye takip sistemi | Laravel · React · TypeScript |
 | [🤖 **RetroChatBot**](https://github.com/gurkanbaydeniz/RetroChatBot) | Zamanda yolculuk yapan AI sohbet botu (1995 RETRO-9000 · 2090 NEXUS-9000) | FastAPI · Google Gemini |
 
 ## 📂 Diğer Projeler
